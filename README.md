@@ -1,7 +1,7 @@
 Day Planner/Calendar
 
 Description
-A basic day planner where you can add events to your day. It will tell you the current day and you are given a set of times to add events. Events/hours that have passed will be grayed out while current hour events will be read and future hours will be green.
+A basic day planner where you can add events to your day. It will tell you the current day and you are given a set of times to add events. Events/hours that have passed will be grayed out while current hour events will be read and future hours will be green. You are able to save your events to the right by clicking the save button and it will store it in your local storage.
 
 Installation
 N/A
