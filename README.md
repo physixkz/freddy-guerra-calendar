@@ -16,3 +16,7 @@ License
 Please refer to the LICENSE in the repo.
 
 ![Alt text](planner.jpg)
+
+https://github.com/physixkz/freddy-guerra-calendar
+
+https://physixkz.github.io/freddy-guerra-calendar/
